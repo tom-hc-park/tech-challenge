@@ -23,7 +23,7 @@ Output – Python program
 
 Output – Python program and ETL process
 
-**Stage 4** : Write SQL Scripts to validate the data loaded, for example:
+**Stage 4** : Write SQL to validate the data loaded, for example:
 
 Missing data report
 
@@ -31,7 +31,7 @@ Invalid / strange data report
 
 Output - Snowflake Views
 
-**Stage 5** : Write SQL Scripts to return the following:
+**Stage 5** : Write SQL to return the following:
 
 What is the most common first name among actors and actresses?
 
