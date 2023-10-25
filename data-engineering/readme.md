@@ -21,7 +21,7 @@ Output – Python program
 
 **Stage 3** : Enhance the data by adding the cast members sex (Male / Female). [https://www.aminer.cn/gender/api](https://www.aminer.cn/gender/api) or any other source you want to use.
 
-Output – Python program and ETL process
+Output – Python program and/or ETL process
 
 **Stage 4** : Write SQL to validate the data loaded, for example:
 
