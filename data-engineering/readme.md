@@ -9,11 +9,11 @@ Use the Netflix csv file as your data source.
 
 **Stage 1** : Create a database and tables to store the data using a Dimensional Modelled Design in Snowflake using a trial account.
 
-Output - SQL DDL Scripts that will do this.
+Output - Snowflake objects and SQL DDL Scripts
 
 **Stage 2** : Create an automated process using Snowflake to ELT the data from the csv file into the database. Consider that there will be new incremental files land into the source location on a daily basis that require updates in the destination tables.
 
-Output - SQL DDL Scripts 
+Output - Snowflake objects SQL DDL Scripts 
 
 **Stage 3** : Create a python program that will generate new files of the same format with ficticous records and save them to the source location for automated ingestion to Snowflake.
 
