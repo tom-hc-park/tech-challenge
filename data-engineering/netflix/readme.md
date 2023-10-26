@@ -19,10 +19,6 @@ Output - Snowflake objects SQL DDL Scripts
 
 Output – Python program
 
-**Stage 3** : Enhance the data by adding the cast members sex (Male / Female). [https://www.aminer.cn/gender/api](https://www.aminer.cn/gender/api) or any other source you want to use.
-
-Output – Python program and/or ETL process
-
 **Stage 4** : Write SQL to validate the data loaded, for example:
 
 Missing data report
@@ -44,6 +40,10 @@ Which year had the largest increase year on year (percentage wise) for TV Shows?
 List the actresses that have appeared in a movie with Woody Harrelson more than once.
 
 Output - Snowflake Views
+
+**Bonus** : Enhance the data by adding the cast members sex (Male / Female). [https://www.aminer.cn/gender/api](https://www.aminer.cn/gender/api) or any other source you want to use.
+
+Output – Python program and/or ETL process
 
 **Data (Netflix\_titles.csv)**
 
