@@ -16,8 +16,8 @@ Output - Snowflake objects and SQL DDL Scripts
 Output - Snowflake objects SQL DDL Scripts 
 
 **Stage 3** : Create a python program to:
-    1. Generate new source files of the same format as netflix_titles.csv.  Each new file should contain some new records (with ficticous data) that should be inserted into the dimenstionally modeled tables and some existing records that require updates.
-    2. Save the files to a source location for automated ingestion into Snowflake. 
+1. Generate new source files of the same format as netflix_titles.csv.  Each new file should contain some new records (with ficticous data) that should be inserted into the dimenstionally modeled tables and some existing records that require updates.
+2. Save the files to a source location for automated ingestion into Snowflake. 
 
 Output – Python program
 
