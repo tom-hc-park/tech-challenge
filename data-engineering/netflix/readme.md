@@ -3,6 +3,7 @@
 * Create a new repository in your own GitHub account that contains source code for project
 * Commit & push code regularly rather than 1 large commit with everything
 * Once complete, please send a link to your repository
+* Be prepared to demonstrate the working process and review/discuss different design decisions
 
 Use the netflix_titles.csv file as the initial data source.
 
