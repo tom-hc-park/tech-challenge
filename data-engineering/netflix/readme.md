@@ -7,7 +7,7 @@
 
 Use the netflix_titles.csv file as the initial data source.
 
-**Stage 1** : Create a database, schema, and tables based on the netflix_titles.csv data using a Dimensional Modelled Design with a Snowflake trial account.
+**Stage 1** : Create a database, schema, and tables based on the netflix_titles.csv data using a Dimensional Modelled Design with a Snowflake trial account. Please consider primary, foreign, and table clustering keys. 
 
 Output - Snowflake objects and SQL DDL Scripts
 
