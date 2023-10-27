@@ -1,29 +1,28 @@
 **Ambyint Technical Assessment – Data Engineer**
 
-* Create a fork of this repository in your own GitHub account
-* Please consider your git history as this will be reviewed
-* Commit & push code regularly
+* Create a new repository in your own GitHub account that contains source code for project
+* Commit & push code regularly rather than 1 large commit with everything
 * Once complete, please send a link to your repository
 
-Use the Netflix csv file as your data source.
+Use the netflix_titles.csv file as the initial data source.
 
-**Stage 1** : Create a database and tables to store the data using a Dimensional Modelled Design in Snowflake using a trial account.
+**Stage 1** : Create a database, schema, and tables based on the netflix_titles.csv data using a Dimensional Modelled Design with a Snowflake trial account.
 
 Output - Snowflake objects and SQL DDL Scripts
 
-**Stage 2** : Create an automated process using Snowflake to ELT the data from the csv file into the database. Consider that there will be new incremental files land into the source location on a daily basis that require updates in the destination tables.
+**Stage 2** : Create an automated process using Snowflake to ELT the netflix_titles.csv data from the csv file into the tables. 
 
 Output - Snowflake objects SQL DDL Scripts 
 
-**Stage 3** : Create a python program that will generate new files of the same format with ficticous records and save them to the source location for automated ingestion to Snowflake.
+**Stage 3** : Create a python program to:
+    1. Generate new source files of the same format as netflix_titles.csv.  Each new file should contain some new records (with ficticous data) that should be inserted into the dimenstionally modeled tables and some existing records that require updates.
+    2. The program should save the files to a source location for automated ingestion into Snowflake. 
 
 Output – Python program
 
-**Stage 4** : Write SQL to validate the data loaded, for example:
+**Stage 4** : Write SQL to validate the data staged and loaded, for example:
 
-Missing data report
-
-Invalid / strange data report
+Identify and report any missing, invalid or strange data. This can be anything you determine in the provided file or have generated in Stage 3. 
 
 Output - Snowflake Views
 
