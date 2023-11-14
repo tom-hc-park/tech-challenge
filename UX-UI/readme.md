@@ -27,7 +27,7 @@ For every user, we’d like to display a card with the name of each character al
 
 In the character details modal, we’d like to display information about the person: name as the header of the modal, height displayed in meters, mass in kg, date person was added to the API (in dd-MM-yyyy format), number of films the person appears in and their birth year. We should also fetch information about the person’s homeworld and display its name, terrain, climate, and number of residents.
 
-In addition to pagination, we’d also like the React developer to implement searching and filtering. To search, the user should enter a character name (partial or complete) and have all matching results returned. For filtration, the user should be able to select either the homeworld, film, or species of any character and see results. Don’t forget to combine the search with filters.
+Stretch Goal: In addition to pagination, we’d also like the React developer to implement searching and filtering. To search, the user should enter a character name (partial or complete) and have all matching results returned. For filtration, the user should be able to select either the homeworld, film, or species of any character and see results. Don’t forget to combine the search with filters.
 
 Stretch Goal: Add an integration test for testing the modal opens with the correct person’s information.
 
