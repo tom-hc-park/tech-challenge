@@ -41,6 +41,7 @@ This project focuses on analyzing oil and gas well data from the US Dept of Inte
 - Forecast future production
 - Compare regional trends over five years
 - Analyze drilling speed by operator
+- Hint: Well Header can be joined to Monthly Production based on API Well Number
 
 ---
 
