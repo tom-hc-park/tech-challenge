@@ -101,6 +101,7 @@ This project focuses on analyzing oil and gas well data from the US Dept of Inte
 - 📁 Summary tables and insights
 - 📈 Forecast plots
 - 🧠 Written analysis for trends and recommendations
+- 📄 Submission should be a PDF with all source code included
 
 ---
 
