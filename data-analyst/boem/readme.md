@@ -1,9 +1,9 @@
-## **📝 Data Analyst Tech Chanllenge - Oil & Gas Production Analysis**
+## **📝 Data Analyst Tech Challenge - Oil & Gas Production Analysis**
 
 ### **📌 Overview**
 Welcome to the **Data Analyst Tech Challenge**! Your objective is develop reports and visuals that tell a story with data. You will be performing various tasks of **data wrangling, querying, and analysis** using your preferred tools of choice such as (**SQL, python, or BI**).
 
-This challenge will assess your ability to **perform exaploratory data analysis, understand requirements, and create visually compelling reports and visuals** while maintaining high-quality, structured, and reusable code.
+This challenge will assess your ability to **perform exploratory data analysis, understand requirements, and create visually compelling reports and visuals** while maintaining high-quality, structured, and reusable code.
 
 This project focuses on analyzing oil and gas well data from the US Dept of Interior, Bureau of Ocean Energy Management. It includes identifying top-producing wells, mapping their performance, forecasting future production, evaluating operator trends, and assessing drilling efficiency.
 
