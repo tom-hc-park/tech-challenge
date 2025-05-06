@@ -12,7 +12,7 @@ This project focuses on analyzing oil and gas well data from the US Dept of Inte
 ## **💂️ Project Source Data**
 [OgorA field definitions](https://www.data.boem.gov/Main/HtmlPage.aspx?page=ogorA)
 ```
-📆 boem
+📆 boem/data
  ├📄 Borehole.csv           # Well Header data file
  ├📄 ogora2010delimit.zip   # 2010 Monthly Production
  ├📄 ogora2011delimit.zip   # 2011 Monthly Production
@@ -50,15 +50,15 @@ This project focuses on analyzing oil and gas well data from the US Dept of Inte
 ### 🔷 Top Producing Wells & Forecasting
 
 1. **Identify Top Wells**
-   - Determine the top 20 producing wells based on total production in the last 1 year.
+   - Determine the top 20 producing wells based on total oil and gas production in the last 1 year.
 
 2. **Map Production**
    - Generate a map showing the top 20 wells from step 1:
-     - 📍 Point size = total production  
+     - 📍 Point size = total oil and gas production  
      - 🎨 Point color = `BH Total MD (feet)`
 
 3. **Forecast Future Production**
-   - Forecast the next 2 years of production for the top 20 wells from step 1 using historical data.
+   - Forecast the next 2 years of oil production for the top 20 wells from step 1 using historical data.
    - Present results with a time-series visualization.
 
 ---
@@ -66,7 +66,7 @@ This project focuses on analyzing oil and gas well data from the US Dept of Inte
 ### 🔷 Operator & Regional Trends
 
 4. **Top Operators (Annual)**
-   - Create a visual showing the top producing operators for the last 5 years in the Gulf of America.
+   - Create a visual showing the top oil and gas producing operators for the last 5 years in the Gulf of America.
 
 5. **Monthly Drilling Activity**
    - Visualize the number of wells drilled per month in the last 5 years:
@@ -74,10 +74,10 @@ This project focuses on analyzing oil and gas well data from the US Dept of Inte
      - Grouped by **operator** and **region**
 
 6. **Regional Annual Production**
-   - Compare total production by region over the last 5 years.
+   - Compare total oil and gas production by region over the last 5 years.
 
 7. **Seasonal Trends**
-   - Analyze and summarize the impact of **seasonality** on **monthly production** by region.
+   - Analyze and summarize the impact of **seasonality** on **monthly oil and gas production** by region.
 
 ---
 
