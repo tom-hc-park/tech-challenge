@@ -41,7 +41,6 @@ This project focuses on analyzing oil and gas well data from the US Dept of Inte
 - Forecast future production
 - Compare regional trends over five years
 - Analyze drilling speed by operator
-- Hint: Well Header can be joined to Monthly Production based on API Well Number
 
 ---
 
@@ -110,6 +109,10 @@ This project focuses on analyzing oil and gas well data from the US Dept of Inte
 - Ensure consistency in timeframes and regions.
 - Include data cleaning, preprocessing, and validation steps in documentation.
 - Clearly indicate any assumptions or limitations.
+- Well Header can be joined to Monthly Production based on API Well Number
+- For Total Production, combine oil and gas production into Barrel of Oil equivalent
+- BOE Calculation: 1 BOE = 6 MCF gas
+- Ignore water volume in production calculations
 
 ---
 

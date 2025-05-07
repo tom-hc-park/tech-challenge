@@ -16,7 +16,7 @@ Output - Snowflake objects and SQL DDL Scripts
 Output - Snowflake objects SQL DDL Scripts 
 
 **Stage 3** : Create a python program to:
-1. Generate new source files of the same format as netflix_titles.csv.  Each new file should contain some new records (with ficticous data) that should be inserted into the dimenstionally modeled tables and some existing records that require updates.
+1. Generate new source files of the same format as netflix_titles.csv.  Each new file should contain some new records (with fictitious data) that should be inserted into the dimensionally modeled tables and some existing records that require updates.
 2. Save the files to a source location for automated ingestion into Snowflake. 
 
 Output – Python program
@@ -40,10 +40,6 @@ Which year had the largest increase year on year (percentage wise) for TV Shows?
 List the actresses that have appeared in a movie with Woody Harrelson more than once.
 
 Output - Snowflake Views
-
-**Bonus** : Enhance the data by adding the cast members sex (Male / Female). [https://www.aminer.cn/gender/api](https://www.aminer.cn/gender/api) or any other source you want to use.
-
-Output – Python program and/or ETL process
 
 **Data (Netflix\_titles.csv)**
 
