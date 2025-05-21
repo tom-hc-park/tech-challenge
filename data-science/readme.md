@@ -29,24 +29,11 @@ Please structure your work clearly, addressing the following:
 **Part 1: Monitoring Alert Prediction**
 
 *   **Goal:** Using the **training dataset** (`datasets/train.csv`), develop a robust data-driven model to predict the `Monitoring_Alert` flag.
-*   **Process:** Your analysis should cover standard data science workflow stages:
-    *   Data exploration and understanding.
-    *   Data preparation strategy.
-    *   Feature engineering strategy.
-    *   Model selection and implementation.
-    *   Model evaluation.
-    *   Interpretation of results.
 *   Apply your trained model to the **test dataset** (`datasets/test.csv`) and include these predictions in your submission.
 
-**Part 2: Open-Ended System Analysis & Optimization**
+**Part 2: System Analysis & Optimization**
 
-*   **Goal:** Leverage the **training dataset** and your insights to conduct a deeper analysis or propose a data-driven optimization related to the system's operation or health monitoring, going beyond Part 1. **You define the specific goal for this part.** (e.g., related to operational efficiency, sensor analysis, maintenance insights, risk characterization).
-*   **Process:**
-    *   Clearly state your chosen goal.
-    *   Outline and implement an appropriate analytical approach, justifying your methodology.
-    *   Present key findings and insights.
-    *   Propose potential next steps or optimizations.
-    *   Discuss the limitations and assumptions of your analysis.
+*   **Goal:** Leverage the **training dataset** and your insights to conduct a deeper analysis or propose a data-driven optimization related to the system's operation or health monitoring, going beyond Part 1. **You define the specific goal for this part.**
 
 ## 5. Getting Started
 
