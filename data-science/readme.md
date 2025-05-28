@@ -35,33 +35,28 @@ Please structure your work clearly, addressing the following:
 
 *   **Goal:** Leverage the **training dataset** and your insights to conduct a deeper analysis or propose a data-driven optimization related to the system's operation or health monitoring, going beyond Part 1. **You define the specific goal for this part.**
 
-## 5. Getting Started
-
-1.  **Access the Code:** Fork this repository and clone your fork locally to begin working.
-2.  **Isolate Your Work:** Create and work on a dedicated branch within your fork for this assessment.
-3.  **Environment Setup:** Use a Python 3 virtual environment (`venv`, `conda`, etc.) for managing dependencies. Install the necessary libraries (e.g., pandas, scikit-learn, visualization tools, modeling libraries) required for your chosen approach.
-
-## 6. Deliverables & Expectations
+## 5. Deliverables & Expectations
 
 *   **Deliverable:** Your complete solution committed to Git (see Submission section). This should include:
     *   Code (e.g., Jupyter Notebooks, Python scripts).
     *   Clear documentation explaining your process, methodology, justifications, interpretations, and proposals for both Part 1 and Part 2.
 *   **Focus:** Emphasis is on your analytical process, logical reasoning, justification of choices, handling of data complexities, critical thinking, and clear communication. **Final model performance metrics are secondary.**
 *   **Time:** Part 1 typically requires core prediction skills (estimate 2-3 hours). Part 2 is open-ended (allocate time accordingly, e.g., 2-3 additional hours). Invest time wisely.
-*   **Tools:** Use Python 3 and relevant data science libraries.
+*   **Tools:** Use Python 3 and relevant data science libraries. Please ensure the code is easily reproducible.
 
-## 7. Evaluation Criteria (High-Level)
+## 6. Evaluation Criteria (High-Level)
 
 Your submission will be assessed based on:
 
 *   **Problem Understanding & Data Handling:** Demonstrated ability to explore the data, understand its context/complexities, and apply appropriate handling techniques with justification.
 *   **Methodology & Justification:** Soundness of the chosen strategies for data prep, feature engineering, modeling, and evaluation, supported by clear reasoning.
 *   **Critical Thinking & Interpretation:** Depth of insights derived, ability to interpret results meaningfully, and critical assessment of limitations and assumptions.
+*   **Coding Ability:** Assessed based on code readability, reproducibility of results, and the appropriate use of tools, libraries, and programming techniques.
 *   **Communication:** Clarity, structure, and overall quality of your documentation and presentation within the submitted repository.
 *   **(Part 2 Specific):** Clarity and relevance of the self-defined goal and the suitability of the approach taken.
 *   **(Git Usage):** Basic use of version control with logical commits reflecting workflow stages.
 
-## 8. Submission
+## 7. Submission
 
 1.  **Commit Your Work:** Commit all your completed work (code, notebooks, reports) with meaningful commit messages to the branch you created in your forked repository.
 3.  **Share the Link:** Email the direct link to your specific branch within your forked repository to Mark Wiggins (`mark.wiggins@ambyint.com`).
